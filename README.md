@@ -14,3 +14,8 @@ We strongly recommend you use a test framework. (We use Cypress.io at CRUK) to s
 
 ## Documentation
 Please describe in a README.md file how to run the tests and any other additional info needed about any assumptions you make.
+
+## On Completion
+Please either: 
+1. Zip up the project and send it back to the hiring manager
+2. Publish to your github and send us the link
